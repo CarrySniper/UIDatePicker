@@ -55,6 +55,7 @@
     _showLabel.textAlignment = NSTextAlignmentCenter;
     _showLabel.text = @"显示获取的日期时间";
     [self.view addSubview:_showLabel];
+    
 }
 
 -(void)dateChanged:(id)sender{
