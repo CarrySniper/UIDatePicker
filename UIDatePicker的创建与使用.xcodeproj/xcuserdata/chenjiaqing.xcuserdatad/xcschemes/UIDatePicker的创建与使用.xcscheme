@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0510"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C5A9CEA71A8837FE00793773"
+               BuildableName = "UIDatePicker&#x7684;&#x521b;&#x5efa;&#x4e0e;&#x4f7f;&#x7528;.app"
+               BlueprintName = "UIDatePicker&#x7684;&#x521b;&#x5efa;&#x4e0e;&#x4f7f;&#x7528;"
+               ReferencedContainer = "container:UIDatePicker&#x7684;&#x521b;&#x5efa;&#x4e0e;&#x4f7f;&#x7528;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C5A9CEC21A8837FE00793773"
+               BuildableName = "UIDatePicker&#x7684;&#x521b;&#x5efa;&#x4e0e;&#x4f7f;&#x7528;Tests.xctest"
+               BlueprintName = "UIDatePicker&#x7684;&#x521b;&#x5efa;&#x4e0e;&#x4f7f;&#x7528;Tests"
+               ReferencedContainer = "container:UIDatePicker&#x7684;&#x521b;&#x5efa;&#x4e0e;&#x4f7f;&#x7528;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C5A9CEA71A8837FE00793773"
+            BuildableName = "UIDatePicker&#x7684;&#x521b;&#x5efa;&#x4e0e;&#x4f7f;&#x7528;.app"
+            BlueprintName = "UIDatePicker&#x7684;&#x521b;&#x5efa;&#x4e0e;&#x4f7f;&#x7528;"
+            ReferencedContainer = "container:UIDatePicker&#x7684;&#x521b;&#x5efa;&#x4e0e;&#x4f7f;&#x7528;.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C5A9CEA71A8837FE00793773"
+            BuildableName = "UIDatePicker&#x7684;&#x521b;&#x5efa;&#x4e0e;&#x4f7f;&#x7528;.app"
+            BlueprintName = "UIDatePicker&#x7684;&#x521b;&#x5efa;&#x4e0e;&#x4f7f;&#x7528;"
+            ReferencedContainer = "container:UIDatePicker&#x7684;&#x521b;&#x5efa;&#x4e0e;&#x4f7f;&#x7528;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C5A9CEA71A8837FE00793773"
+            BuildableName = "UIDatePicker&#x7684;&#x521b;&#x5efa;&#x4e0e;&#x4f7f;&#x7528;.app"
+            BlueprintName = "UIDatePicker&#x7684;&#x521b;&#x5efa;&#x4e0e;&#x4f7f;&#x7528;"
+            ReferencedContainer = "container:UIDatePicker&#x7684;&#x521b;&#x5efa;&#x4e0e;&#x4f7f;&#x7528;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
