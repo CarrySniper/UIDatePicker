@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C59BB3DA1A88397700BF8DD2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C59BB3D91A88397700BF8DD2 /* ViewController.m */; };
 		C5A9CEAC1A8837FE00793773 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C5A9CEAB1A8837FE00793773 /* Foundation.framework */; };
 		C5A9CEAE1A8837FE00793773 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C5A9CEAD1A8837FE00793773 /* CoreGraphics.framework */; };
 		C5A9CEB01A8837FE00793773 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C5A9CEAF1A8837FE00793773 /* UIKit.framework */; };
@@ -32,6 +33,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C59BB3D81A88397700BF8DD2 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		C59BB3D91A88397700BF8DD2 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		C5A9CEA81A8837FE00793773 /* UIDatePicker的创建与使用.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UIDatePicker的创建与使用.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5A9CEAB1A8837FE00793773 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C5A9CEAD1A8837FE00793773 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -77,6 +80,8 @@
 		C5A9CE9F1A8837FE00793773 = {
 			isa = PBXGroup;
 			children = (
+				C59BB3D81A88397700BF8DD2 /* ViewController.h */,
+				C59BB3D91A88397700BF8DD2 /* ViewController.m */,
 				C5A9CEB11A8837FE00793773 /* UIDatePicker的创建与使用 */,
 				C5A9CECA1A8837FE00793773 /* UIDatePicker的创建与使用Tests */,
 				C5A9CEAA1A8837FE00793773 /* Frameworks */,
@@ -239,6 +244,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C59BB3DA1A88397700BF8DD2 /* ViewController.m in Sources */,
 				C5A9CEBC1A8837FE00793773 /* AppDelegate.m in Sources */,
 				C5A9CEB81A8837FE00793773 /* main.m in Sources */,
 			);
@@ -437,6 +443,7 @@
 				C5A9CED61A8837FE00793773 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C5A9CED71A8837FE00793773 /* Build configuration list for PBXNativeTarget "UIDatePicker的创建与使用Tests" */ = {
 			isa = XCConfigurationList;
@@ -445,6 +452,7 @@
 				C5A9CED91A8837FE00793773 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
